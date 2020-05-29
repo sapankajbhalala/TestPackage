@@ -18,3 +18,5 @@ https://github.com/sapankajbhalala/TestPackage.git
 * Select rules for any (Version, Branch or Commit)
 
 We will update more solutions
+
+Thank you
